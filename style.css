@@ -1,0 +1,43 @@
+
+.img-fluid img {width: 100%;
+    margin: 1px;   padding: 1px;
+}
+header{
+    text-align:center;
+}
+.nav li a{
+    margin-left: 15px;
+    margin-right: 15px;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.container{ 
+    padding: 20px 10px;
+    
+
+}
+.card{width: 18rem;}
+
+.page-footer{
+background-color: #01689b; 
+text-decoration-color: white;
+font-family: "RO Sans",Calibri,sans-serif;
+margin-left: -15px;
+margin-right: -15px;
+}
+.list-unstyled a{
+    color: #d7e2e1;
+    text-decoration: none;
+    background-color: transparent;
+
+}
+
+.bg-primary {
+    background-color: #01689b!important;
+    
+}
+.p-3 li a{
+    color: white !important;
+    font-family: "RO Sans",Calibri,sans-serif;
+}
